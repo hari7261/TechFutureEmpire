@@ -1,0 +1,18 @@
+
+h1{
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 2px 4px;
+    background: none rgb(187, 187, 187);
+    padding: auto;
+    margin-bottom: auto;
+    margin-top: left 2px 4px;
+    box-shadow: rgb(255, 255, 255);
+
+}
+
+li{
+    box-shadow: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 2px 4px;
+    background: none;
+    margin-bottom: auto;
+}
